@@ -1,0 +1,51 @@
+product_id,product_name,category,price,stock_quantity,Supplier_id
+1,Always Sanitary Pads,Personal Care,250,1300,SUPP03
+2,Ariel 500g,Personal Care,450,1200,SUPP04
+3,BIC Razor 5-pack,Personal Care,100,3000,SUPP05
+4,Bluetooth Earphones,Electronics,3000,300,SUPP06
+5,Charcoal Jiko,Home&living,6000,80,SUPP07
+6,Coca-Cola 500ml,Beverages,60,2900,SUPP08
+7,Colgate Toothpaste 100ml,Personal Care,350,700,SUPP09
+8,Cooking Oil 1L,Food&Groceries,250,390,SUPP10
+9,Curtains Pair,Home&living,500,90,SUPP11
+10,Del Monte Juice 1L,Beverages,300,754,SUPP12
+11,Duvet 5x6,Home&living,4000,26,SUPP01
+12,Extension Cable 4-Way,Electronics,2000,450,SUPP02
+13,Fanta Orange 500ml,Beverages,60,590,SUPP03
+14,Fresh Milk 1L,Beverages,120,400,SUPP04
+15,Gas Cylinder 6Kg,Home&living,1500,50,SUPP05
+16,Geisha Bar Soap,Personal Care,110,600,SUPP06
+17,Infinix Hot 12,Electronics,25000,20,SUPP07
+18,Kenya Tea 250g,Beverages,200,4500,SUPP08
+19,Keringet Water 1L,Beverages,50,9500,SUPP09
+20,Kitenge Sofa Covers,Home&living,6500,30,SUPP10
+21,Laptop Dell 7400,Electronics,30000,20,SUPP11
+22,Maize 2Kg,Food&Groceries,170,654,SUPP12
+23,MiFi Router,Electronics,3500,30,SUPP13
+24,Milk - Brookside 500ml,Beverages,60,5400,SUPP14
+25,Minute Maid 500ml,Beverages,80,754,SUPP15
+26,Mosquito Net,Home&living,2600,24,SUPP10
+27,MPesa POS Machine,Electronics,30000,50,SUPP11
+28,Nivea Lotion 250ml,Personal Care,350,700,SUPP12
+29,Noodles - Indomie 70g,Food&Groceries,100,1200,SUPP01
+30,OMO 1Kg,Personal Care,470,400,SUPP02
+31,Plastic Chairs,Home&living,900,19,SUPP03
+32,Red Bull 250ml,Beverages,300,3400,SUPP04
+33,Rice 2Kg,Food&Groceries,600,200,SUPP05
+34,Salt 500g,Food&Groceries,100,3000,SUPP06
+35,Samsung Galaxy A14,Electronics,24000,90,SUPP07
+36,Solar Panel 150W,Electronics,50000,700,SUPP09
+37,Sprite 500ml,Beverages,60,8950,SUPP10
+38,Sufuria Set,Home&living,4320,70,SUPP11
+39,Sugar 1Kg,Food&Groceries,260,3000,SUPP12
+40,Sunlight Bar Soap,Personal Care,230,2000,SUPP01
+41,Techno Pop 7,Electronics,18000,30,SUPP02
+42,Tissue Roll 10-pack,Home&living,600,7600,SUPP03
+43,Tusker Lager 500ml,Beverages,300,4500,SUPP04
+44,Unga wa Dola 2Kg,Food&Groceries,180,600,SUPP05
+45,Vaseline 100ml,Personal Care,120,500,SUPP06
+46,Vitron 32'' TV,Electronics,45000,20,SUPP01
+47,Wall Clock,Home&living,670,290,SUPP02
+48,Water Dispenser,Home&living,6000,16,SUPP03
+49,porridge flour 2kg,Food&Groceries,160,3900,SUPP04
+50,WhiteCap Can,Beverages,300,2000,SUPP05
