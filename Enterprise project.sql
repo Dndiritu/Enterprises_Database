@@ -1,7 +1,6 @@
 create database TEST;
 -------new database-----
----doing changes in gitbash---
---------new_insert trying to avoid an error-----
+-------new_insert is working-----
 use TEST;
 CREATE TABLE customers (
     customer_id INT IDENTITY (143,1) PRIMARY KEY,
